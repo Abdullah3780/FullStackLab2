@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+   text-decoration: overline;
+   
+}
+body{
+    background-color: yellow;
+}
+h2{
+    text-decoration: underline;
+    font-style: italic;
+
+}
